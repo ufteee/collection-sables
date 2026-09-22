@@ -1,1 +1,3 @@
-id,date,country,region,place,type,lat,lng,context,color,grain,texture,composition,quantity,container,photo,notes,location
+﻿"ID","Nom","Pays","Lieu prÃ©cis","Latitude","Longitude","Date de prÃ©lÃ¨vement","Description"
+"","","","","32.14256","38.435668","",""
+"","","","","98.134256","45.23467","",""
